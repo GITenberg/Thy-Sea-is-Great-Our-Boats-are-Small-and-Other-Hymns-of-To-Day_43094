@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/362
     wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43094#Thy-Sea-is-Great-Our-Boats-are-Small-and-Other-Hymns-of-To-Day
 gutenberg_issued: '2013-07-05'
 gutenberg_type: Text
 identifiers:
